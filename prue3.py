@@ -13,3 +13,5 @@ elif(op==2):
 
 elif (op>=3):
     print("error.")
+
+    print("adios :)")
